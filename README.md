@@ -36,10 +36,11 @@ El reporte visual permite filtrar dinámicamente por **Segmento de Cliente** y m
 6. **Evolución Diaria de Consumos:** Comportamiento de las compras registradas a lo largo de las fechas.
 
 ### Vista General del Tablero
-![Vista General](dashboard_general.png)
+![Vista General](dashboard_general2.0.png)
+
 
 ### Vista Filtrada por Segmento
-![Vista Filtrada](dashboard_filtrado.png)
+![Vista Filtrada](dashboard_filtrado2.0.png)
 
 ## Herramientas utilizadas
 * **MySQL**: Diseño de esquema relacional, integridad referencial y consultas analíticas.

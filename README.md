@@ -40,7 +40,7 @@ El reporte visual permite filtrar dinámicamente por **Segmento de Cliente** y m
 
 
 ### Vista Filtrada por Segmento
-![Vista Filtrada](dashboard_filtrado.png)
+![Vista Filtrada](dashboard_filtrado_db.png)
 
 ## Herramientas utilizadas
 * **MySQL**: Diseño de esquema relacional, integridad referencial y consultas analíticas.
